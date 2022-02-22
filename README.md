@@ -5,8 +5,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ü
 #### üå± My latest projects
 
 - [jorgeeldis/CyberThenicsApp](https://github.com/jorgeeldis/CyberThenicsApp) - Where we teach you calisthenics the retro way!
-- [jorgeeldis/3-PlayersReflexGame](https://github.com/jorgeeldis/3-PlayersReflexGame) - 
-- [jorgeeldis/StoaCalculator](https://github.com/jorgeeldis/StoaCalculator) - 
+- [jorgeeldis/3-PlayersReflexGame](https://github.com/jorgeeldis/3-PlayersReflexGame) - A fun game where we test your reflexes with electronics!
+- [jorgeeldis/StoaCalculator](https://github.com/jorgeeldis/StoaCalculator) - A powerful python package calculator that have everything you need to do any kind of calculations!
 - [jorgeeldis/matlabmatrix](https://github.com/jorgeeldis/matlabmatrix) - 
 
 #### ‚≠ê Recent Stars
@@ -21,8 +21,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ü
 
 - [jorgeeldis/WhiteCode](https://github.com/jorgeeldis/WhiteCode) -  (5 days ago)
 - [jorgeeldis/CyberThenicsApp](https://github.com/jorgeeldis/CyberThenicsApp) - Where we teach you calisthenics the retro way! (2 weeks ago)
-- [jorgeeldis/3-PlayersReflexGame](https://github.com/jorgeeldis/3-PlayersReflexGame) -  (1 month ago)
-- [jorgeeldis/StoaCalculator](https://github.com/jorgeeldis/StoaCalculator) -  (1 month ago)
+- [jorgeeldis/3-PlayersReflexGame](https://github.com/jorgeeldis/3-PlayersReflexGame) - A fun game where we test your reflexes with electronics! (1 month ago)
+- [jorgeeldis/StoaCalculator](https://github.com/jorgeeldis/StoaCalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 month ago)
 
 #### üöÄ Check out some of my recent followers
 
