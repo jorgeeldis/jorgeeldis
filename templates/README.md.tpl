@@ -25,7 +25,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 #### ðŸ“„ Latest posts
 
-{{- range rss "https://carlosbecker.com/posts/index.xml" 4 }}
+{{- range rss "https://stoacommunity.com/sitemap.xml" 4 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
