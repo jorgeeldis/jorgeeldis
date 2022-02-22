@@ -28,6 +28,12 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
+#### 📄 Latest posts
+- [Forwarding Discord&#39;s RPC socket over SSH](https://carlosbecker.com/posts/discord-rpc-ssh/) (2 weeks ago)
+- [git-worktree is awesome](https://carlosbecker.com/posts/git-worktrees/) (3 weeks ago)
+- [./charm.sh](https://carlosbecker.com/posts/charm/) (1 month ago)
+- [MacBook Pro 14 - a quick review](https://carlosbecker.com/posts/macbook-pro-14/) (2 months ago)
+
 #### 💬 Feedback
 
 If you have any questions, don't forget to check out my social media and ask them over there!!
