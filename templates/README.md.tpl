@@ -23,12 +23,6 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 📚 Some books I'm reading
-
-{{- range goodReadsCurrentlyReading 4 }}
-- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
-{{- end }}
-
 #### 💬 Feedback
 
 If you have any questions, don't forget to check out my social media and ask them over there!!
