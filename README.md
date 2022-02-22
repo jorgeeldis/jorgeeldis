@@ -29,10 +29,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### 📄 Latest posts
-- [RoboStoa 1.0!](http://stoacommunity.com/robostoa1.0) (today)
-- [Stoa Calculator!](http://stoacommunity.com/stoacalculator) (today)
-- [Electric Power!](http://stoacommunity.com/electricpower) (today)
-- [Energy!](http://stoacommunity.com/energy) (today)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (today)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (today)
+- [Electric Power!](https://stoacommunity.com/electricpower) (today)
+- [Energy!](https://stoacommunity.com/energy) (today)
 
 #### 💬 Feedback
 
