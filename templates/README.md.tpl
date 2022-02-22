@@ -2,14 +2,14 @@
 
 I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama 🇵🇦
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 #### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+<!--#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
@@ -45,7 +45,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
-{{- end}}
+{{- end}}-->
 
 #### 💬 Feedback
 
