@@ -3,16 +3,39 @@
 I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama 🇵🇦
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 4}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### ⭐ Recent Stars
+
+{{ range recentStars 4 }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+{{- end }}
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 4}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🚀 Check out some of my recent followers
+{{range followers 4}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
+#### 📚 Some books I'm reading
+
+{{- range goodReadsCurrentlyReading 4 }}
+- **[{{ .Book.Title }}]({{ .Book.Link }})** by _{{ range .Book.Authors }}{{ .Name }}{{ end }}_
+{{- end }}
+
 #### 💬 Feedback
 
-Say Hello, I don't bite!
+If you have any questions, don't forget to check out my social media and ask them over there!!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/jorgeeldis
+- Instagram: https://instagram.com/jorgeeldis
+- Blog: https://jorgeeldis.me
+- LinkedIn: https://www.linkedin.com/in/jorgeeldis/
