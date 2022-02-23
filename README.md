@@ -19,7 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 #### ðŸ‘· Check out what I'm currently working on
 
-- [jorgeeldis/WhiteCode](https://github.com/jorgeeldis/WhiteCode) -  (5 days ago)
+- [jorgeeldis/WhiteCode](https://github.com/jorgeeldis/WhiteCode) -  (6 days ago)
 - [jorgeeldis/CyberThenicsApp](https://github.com/jorgeeldis/CyberThenicsApp) - Where we teach you calisthenics the retro way! (2 weeks ago)
 - [jorgeeldis/3-PlayersReflexGame](https://github.com/jorgeeldis/3-PlayersReflexGame) - A fun game where we test your reflexes with electronics! (1 month ago)
 - [jorgeeldis/StoaCalculator](https://github.com/jorgeeldis/StoaCalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 month ago)
@@ -29,10 +29,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### ðŸ“„ Latest posts
-- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (today)
-- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (today)
-- [Electric Power!](https://stoacommunity.com/electricpower) (today)
-- [Energy!](https://stoacommunity.com/energy) (today)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (1 day ago)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (1 day ago)
+- [Electric Power!](https://stoacommunity.com/electricpower) (1 day ago)
+- [Energy!](https://stoacommunity.com/energy) (1 day ago)
 
 #### ðŸ’¬ Feedback
 
