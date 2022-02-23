@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
-- [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - Where we teach you calisthenics the retro way!
-- [jorgeeldis/3playersreflexgame](https://github.com/jorgeeldis/3playersreflexgame) - A fun game where we test your reflexes with electronics!
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations!
-- [jorgeeldis/matlabmatrix](https://github.com/jorgeeldis/matlabmatrix) - 
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder.
+- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino.
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking
+- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project!
 
 #### ⭐ Recent Stars
 
@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) -  (6 days ago)
-- [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - Where we teach you calisthenics the retro way! (2 weeks ago)
-- [jorgeeldis/3playersreflexgame](https://github.com/jorgeeldis/3playersreflexgame) - A fun game where we test your reflexes with electronics! (1 month ago)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 month ago)
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
+- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (today)
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (today)
+- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project! (today)
 
 #### 🚀 Check out some of my recent followers
 
