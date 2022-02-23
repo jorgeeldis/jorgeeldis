@@ -26,9 +26,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🚀 Check out some of my recent followers
 
+- [jeldis](https://github.com/jeldis)
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
-#### 📄 Latest posts
+#### 👽 Latest posts from Stoa Community!
 - [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (1 day ago)
 - [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (1 day ago)
 - [Electric Power!](https://stoacommunity.com/electricpower) (1 day ago)
