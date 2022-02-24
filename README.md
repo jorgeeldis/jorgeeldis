@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
+- [jorgeeldis/neonadventure](https://github.com/jorgeeldis/neonadventure) - It&#39;s a demo game made with python and the pygame library, it&#39;s inspired by the classic game boy zelda games
 - [jorgeeldis/passwordgenerator](https://github.com/jorgeeldis/passwordgenerator) - Password generator using python and the random library, you can make up to 100 passwords with any length you like.
 - [jorgeeldis/birthdaysurprise](https://github.com/jorgeeldis/birthdaysurprise) - Python code for those who want to make a present using programming, very creative and funny!
 - [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2.
-- [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings.
 
 #### ⭐ Recent Stars
 
@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/birthdaysurprise](https://github.com/jorgeeldis/birthdaysurprise) - Python code for those who want to make a present using programming, very creative and funny! (today)
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
 - [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (today)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (today)
 - [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - CyberThenics Github page where you can open an issue tab about the app and help us with your feedback! (today)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when i practice ethical hacking on kali linux, this scripts are made only for educational purposes only. (today)
 
 #### 🚀 Check out some of my recent followers
 
