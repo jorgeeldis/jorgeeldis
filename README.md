@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
-- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder.
-- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino.
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking
-- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project!
+- [jorgeeldis/passwordgenerator](https://github.com/jorgeeldis/passwordgenerator) - Password generator using python and the random library, you can make up to 100 passwords with any length you like.
+- [jorgeeldis/birthdaysurprise](https://github.com/jorgeeldis/birthdaysurprise) - Python code for those who want to make a present using programming, very creative and funny!
+- [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2.
+- [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings.
 
 #### ⭐ Recent Stars
 
@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (1 day ago)
-- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (1 day ago)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (1 day ago)
+- [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2. (1 day ago)
 - [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project! (1 day ago)
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (1 day ago)
+- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (1 day ago)
 
 #### 🚀 Check out some of my recent followers
 
