@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[jeldis/WinServiceTopshelfHangfire](https://github.com/jeldis/WinServiceTopshelfHangfire)** - Uso de Hangfire y Topshelf (1 year ago)
-- **[jeldis/barcode](https://github.com/jeldis/barcode)** - Leer código de barras en imágenes (1 year ago)
-- **[jeldis/SQL](https://github.com/jeldis/SQL)** - Code snippets (1 year ago)
-- **[jeldis/CSharp](https://github.com/jeldis/CSharp)** - Code snippets (1 year ago)
+- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (today)
+- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (today)
+- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (today)
+- **[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (today)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
+- [jorgeeldis/birthdaysurprise](https://github.com/jorgeeldis/birthdaysurprise) - Python code for those who want to make a present using programming, very creative and funny! (today)
 - [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (today)
-- [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2. (today)
 - [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - CyberThenics Github page where you can open an issue tab about the app and help us with your feedback! (today)
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when i practice ethical hacking on kali linux, this scripts are made only for educational purposes only. (today)
 
 #### 🚀 Check out some of my recent followers
 
