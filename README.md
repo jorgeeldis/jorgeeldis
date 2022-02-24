@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2. (1 day ago)
-- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project! (1 day ago)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (1 day ago)
-- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (1 day ago)
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
+- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (today)
+- [jorgeeldis/facerecognition](https://github.com/jorgeeldis/facerecognition) - Face recognition software made with python using the OpenCV module CV2. (today)
+- [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - CyberThenics Github page where you can open an issue tab about the app and help us with your feedback! (today)
 
 #### 🚀 Check out some of my recent followers
 
