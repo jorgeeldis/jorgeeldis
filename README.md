@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
-- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (today)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (today)
-- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project! (today)
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (1 day ago)
+- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (1 day ago)
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when practicing my ethical hacking (1 day ago)
+- [jorgeeldis/arduinobasic](https://github.com/jorgeeldis/arduinobasic) - &#43;10 small and interesting projects where you test your coding and electronics skills, &#43; a big final project! (1 day ago)
 
 #### 🚀 Check out some of my recent followers
 
@@ -30,10 +30,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### 👽 Latest posts from Stoa Community!
-- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (1 day ago)
-- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (1 day ago)
-- [Electric Power!](https://stoacommunity.com/electricpower) (1 day ago)
-- [Energy!](https://stoacommunity.com/energy) (1 day ago)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (2 days ago)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (2 days ago)
+- [Electric Power!](https://stoacommunity.com/electricpower) (2 days ago)
+- [Energy!](https://stoacommunity.com/energy) (2 days ago)
 
 #### 💬 Feedback
 
