@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (today)
-- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (today)
-- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (today)
-- **[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (today)
+- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (1 day ago)
+- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (1 day ago)
+- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (1 day ago)
+- **[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (1 day ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (today)
-- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (today)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (today)
-- [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - CyberThenics Github page where you can open an issue tab about the app and help us with your feedback! (today)
+- [jorgeeldis/bcdtoxs3](https://github.com/jorgeeldis/bcdtoxs3) - Using VHDL and some basic electronics we are gonna make a BCD to XS3 encoder. (1 day ago)
+- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (1 day ago)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 day ago)
+- [jorgeeldis/cyberthenicsapp](https://github.com/jorgeeldis/cyberthenicsapp) - CyberThenics Github page where you can open an issue tab about the app and help us with your feedback! (1 day ago)
 
 #### 🚀 Check out some of my recent followers
 
@@ -30,10 +30,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### 👽 Latest posts from Stoa Community!
-- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (2 days ago)
-- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (2 days ago)
-- [Electric Power!](https://stoacommunity.com/electricpower) (2 days ago)
-- [Energy!](https://stoacommunity.com/energy) (2 days ago)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (3 days ago)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (3 days ago)
+- [Electric Power!](https://stoacommunity.com/electricpower) (3 days ago)
+- [Energy!](https://stoacommunity.com/energy) (3 days ago)
 
 #### 💬 Feedback
 
