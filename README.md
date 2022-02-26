@@ -12,10 +12,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
+- **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (today)
 - **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (2 days ago)
 - **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (2 days ago)
 - **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (2 days ago)
-- **[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)** - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (2 days ago)
 
 #### 👷 Check out what I'm currently working on
 
