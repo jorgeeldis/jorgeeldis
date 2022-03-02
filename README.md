@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (3 days ago)
-- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (5 days ago)
-- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (5 days ago)
-- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (5 days ago)
+- **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (4 days ago)
+- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (6 days ago)
+- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (6 days ago)
+- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (6 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (4 days ago)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when i practice ethical hacking on kali linux, this scripts are made only for educational purposes only. (5 days ago)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (5 days ago)
-- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (5 days ago)
+- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (5 days ago)
+- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when i practice ethical hacking on kali linux, this scripts are made only for educational purposes only. (6 days ago)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (6 days ago)
+- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (6 days ago)
 
 #### 🚀 Check out some of my recent followers
 
