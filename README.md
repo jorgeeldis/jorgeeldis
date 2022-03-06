@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (today)
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (1 week ago)
-- [jorgeeldis/ethicalhackingscripts](https://github.com/jorgeeldis/ethicalhackingscripts) - Scripts i use when i practice ethical hacking on kali linux, this scripts are made only for educational purposes only. (1 week ago)
+- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (1 week ago)
 - [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 week ago)
-- [jorgeeldis/arduinomultimeter](https://github.com/jorgeeldis/arduinomultimeter) - An arduino multimeter that measures DC voltage, DC current, resistors, inductors &amp; capacitors. (1 week ago)
 
 #### 🚀 Check out some of my recent followers
 
