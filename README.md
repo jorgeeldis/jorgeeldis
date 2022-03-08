@@ -19,7 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 #### ðŸ‘· Check out what I'm currently working on
 
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (1 day ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (2 days ago)
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (1 week ago)
 - [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (1 week ago)
 - [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 week ago)
@@ -30,10 +30,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### ðŸ‘½ Latest posts from Stoa Community!
-- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (1 week ago)
-- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (1 week ago)
-- [Electric Power!](https://stoacommunity.com/electricpower) (1 week ago)
-- [Energy!](https://stoacommunity.com/energy) (1 week ago)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (2 weeks ago)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (2 weeks ago)
+- [Electric Power!](https://stoacommunity.com/electricpower) (2 weeks ago)
+- [Energy!](https://stoacommunity.com/energy) (2 weeks ago)
 
 #### ðŸ’¬ Feedback
 
