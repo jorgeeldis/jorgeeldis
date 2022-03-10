@@ -13,16 +13,16 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 
 - **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (1 week ago)
-- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (1 week ago)
-- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (1 week ago)
-- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (1 week ago)
+- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (2 weeks ago)
+- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (2 weeks ago)
+- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (3 days ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (4 days ago)
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (1 week ago)
-- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (1 week ago)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 week ago)
+- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (2 weeks ago)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (2 weeks ago)
 
 #### 🚀 Check out some of my recent followers
 
