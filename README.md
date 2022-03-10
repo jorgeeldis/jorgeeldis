@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
+- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks.
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day.
 - [jorgeeldis/neonadventure](https://github.com/jorgeeldis/neonadventure) - It&#39;s a demo game made with python and the pygame library, it&#39;s inspired by the classic game boy zelda games
 - [jorgeeldis/passwordgenerator](https://github.com/jorgeeldis/passwordgenerator) - Password generator using python and the random library, you can make up to 100 passwords with any length you like.
-- [jorgeeldis/birthdaysurprise](https://github.com/jorgeeldis/birthdaysurprise) - Python code for those who want to make a present using programming, very creative and funny!
 
 #### ⭐ Recent Stars
 
@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
+- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (today)
 - [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (4 days ago)
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (1 week ago)
-- [jorgeeldis/ledstripcontroller](https://github.com/jorgeeldis/ledstripcontroller) - Controlling a LED strip with the ULN2003 IC, using arduino. (2 weeks ago)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (2 weeks ago)
+- [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings. (2 weeks ago)
 
 #### 🚀 Check out some of my recent followers
 
