@@ -19,9 +19,9 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (today)
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (4 days ago)
-- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (1 week ago)
+- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (1 day ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (5 days ago)
+- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (2 weeks ago)
 - [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings. (2 weeks ago)
 
 #### 🚀 Check out some of my recent followers
