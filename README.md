@@ -12,15 +12,15 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (1 week ago)
+- **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (2 weeks ago)
 - **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (2 weeks ago)
 - **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (2 weeks ago)
 - **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (1 day ago)
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (5 days ago)
+- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (2 days ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (6 days ago)
 - [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (2 weeks ago)
 - [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings. (2 weeks ago)
 
