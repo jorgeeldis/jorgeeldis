@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
+- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you!
+- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish)
+- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display.
 - [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks.
-- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day.
-- [jorgeeldis/neonadventure](https://github.com/jorgeeldis/neonadventure) - It&#39;s a demo game made with python and the pygame library, it&#39;s inspired by the classic game boy zelda games
-- [jorgeeldis/passwordgenerator](https://github.com/jorgeeldis/passwordgenerator) - Password generator using python and the random library, you can make up to 100 passwords with any length you like.
 
 #### ⭐ Recent Stars
 
@@ -20,9 +20,9 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### 👷 Check out what I'm currently working on
 
 - [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (today)
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (1 day ago)
-- [jorgeeldis/courses](https://github.com/jorgeeldis/courses) - In this repository i will be uploading all the courses i took to keep my goals to day. (2 weeks ago)
-- [jorgeeldis/fifaratingsproject](https://github.com/jorgeeldis/fifaratingsproject) - Using python notebook to filter and search for specific values in fifa ratings. (2 weeks ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (today)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (today)
+- [jorgeeldis/neonadventure](https://github.com/jorgeeldis/neonadventure) - It&#39;s a demo game made with python and the pygame library, it&#39;s inspired by the classic game boy zelda games (today)
 
 #### 🚀 Check out some of my recent followers
 
