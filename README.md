@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (today)
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (today)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (today)
-- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (today)
+- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (1 day ago)
+- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (1 day ago)
+- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 day ago)
+- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (1 day ago)
 
 #### 🚀 Check out some of my recent followers
 
