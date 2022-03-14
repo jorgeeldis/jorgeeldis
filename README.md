@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
+- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (today)
+- **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (today)
+- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (today)
 - **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (2 weeks ago)
-- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (2 weeks ago)
-- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)** - A book series on JavaScript. @YDKJS on twitter. (2 weeks ago)
-- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** - A complete computer science study plan to become a software engineer. (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/robostoa](https://github.com/jorgeeldis/robostoa) - Robostoa is an AI voice assistant robot powered by a raspberry pi &#43; arduino that helps you in your daily tasks. (1 day ago)
-- [jorgeeldis/whitecode](https://github.com/jorgeeldis/whitecode) - This program is an AI chatbot that has different versions and functions, it uses intent.json to answer your questions the smart way. (1 day ago)
-- [jorgeeldis/stoacalculator](https://github.com/jorgeeldis/stoacalculator) - A powerful python package calculator that have everything you need to do any kind of calculations! (1 day ago)
-- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (1 day ago)
+- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish) (today)
+- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you! (today)
+- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (today)
+- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display. (today)
 
 #### 🚀 Check out some of my recent followers
 
