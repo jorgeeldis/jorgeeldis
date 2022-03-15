@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (today)
-- **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (today)
-- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (today)
+- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (1 day ago)
+- **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (1 day ago)
+- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (1 day ago)
 - **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish) (today)
-- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you! (today)
-- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (today)
-- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display. (today)
+- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish) (1 day ago)
+- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you! (1 day ago)
+- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (1 day ago)
+- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display. (1 day ago)
 
 #### 🚀 Check out some of my recent followers
 
@@ -30,10 +30,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - [Wandrys-dev](https://github.com/Wandrys-dev)
 
 #### 👽 Latest posts from Stoa Community!
-- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (2 weeks ago)
-- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (2 weeks ago)
-- [Electric Power!](https://stoacommunity.com/electricpower) (2 weeks ago)
-- [Energy!](https://stoacommunity.com/energy) (2 weeks ago)
+- [RoboStoa 1.0!](https://stoacommunity.com/robostoa1.0) (3 weeks ago)
+- [Stoa Calculator!](https://stoacommunity.com/stoacalculator) (3 weeks ago)
+- [Electric Power!](https://stoacommunity.com/electricpower) (3 weeks ago)
+- [Energy!](https://stoacommunity.com/energy) (3 weeks ago)
 
 #### 💬 Feedback
 
