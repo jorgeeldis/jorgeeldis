@@ -12,17 +12,17 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (6 days ago)
-- **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (6 days ago)
-- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (6 days ago)
+- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (1 week ago)
+- **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (1 week ago)
+- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (1 week ago)
 - **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish) (6 days ago)
-- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you! (6 days ago)
-- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (6 days ago)
-- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display. (6 days ago)
+- [jorgeeldis/cppactivities](https://github.com/jorgeeldis/cppactivities) - More than 30 different simple college cpp programs to start learning more about the language (it&#39;s in spanish) (1 week ago)
+- [jorgeeldis/linuxbash](https://github.com/jorgeeldis/linuxbash) - All my go-to linux shells are right here, most of them created for own purposes but it may help you! (1 week ago)
+- [jorgeeldis/csactivities](https://github.com/jorgeeldis/csactivities) - More than 30 different simple college c# programs to start learning more about the language. (1 week ago)
+- [jorgeeldis/max72xxtests](https://github.com/jorgeeldis/max72xxtests) - A series of arduino codes where you can test your 8x8 LED matrix display. (1 week ago)
 
 #### 🚀 Check out some of my recent followers
 
