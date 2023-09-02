@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**jorgeeldis/jorgeeldis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama 🇵🇦
 
-Here are some ideas to get you started:
+#### 🌱 My latest projects
+{{range recentRepos 4}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⭐ Recent Stars
+
+{{ range recentStars 4 }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})**{{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
+{{- end }}
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 4}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🚀 Check out some of my recent followers
+{{range followers 4}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
+#### 👽 Latest posts from Stoa Community!
+
+{{- range rss "https://node2.feed43.com/stoacommunityrss.xml" 4 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+#### 💬 Feedback
+
+If you have any questions, don't forget to check out my social media and ask them over there!!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/jorgeeldis
+- Instagram: https://instagram.com/jorgeeldis
+- Blog: https://jorgeeldis.github.io
+- LinkedIn: https://www.linkedin.com/in/jorgeeldis/
