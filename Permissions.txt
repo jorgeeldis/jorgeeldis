@@ -1,0 +1,8 @@
+
+    Go to the repository's settings and click on the "Actions" tab.
+    Click on the "General" settings.
+    Scroll down to the "Workflow permissions" section and make sure that the following settings are enabled:
+        Allow GitHub Actions to create and approve pull requests
+        Allow GitHub Actions to delete branches
+        Allow GitHub Actions to push to branches
+    Click on the "Save" button.
