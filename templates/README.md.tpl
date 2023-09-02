@@ -25,10 +25,6 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👽 Latest posts from Stoa Community!
 
-{{- range rss "https://node2.feed43.com/stoacommunityrss.xml" 4 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
-
 #### 💬 Feedback
 
 If you have any questions, don't forget to check out my social media and ask them over there!!
