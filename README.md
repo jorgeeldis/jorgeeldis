@@ -14,7 +14,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 - **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (2 years ago)
 - **[hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools)** - Complete Listing and Usage of Tools used for Ethical Hacking (2 years ago)
-- **[husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (2 years ago)
+- **[husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources)** - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing. (2 years ago)
 - **[danistefanovic/hooka](https://github.com/danistefanovic/hooka)** - 😎 A webhook server with zero coding (2 years ago)
 
 #### 👷 Check out what I'm currently working on
