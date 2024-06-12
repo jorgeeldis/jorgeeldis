@@ -12,8 +12,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[lifeomic/chromicons](https://github.com/lifeomic/chromicons)** - Handcrafted open source icons from LifeOmic (4 days ago)
-- **[Avaiga/taipy](https://github.com/Avaiga/taipy)** - Turns Data and AI algorithms into production-ready web applications in no time. (4 days ago)
+- **[lifeomic/chromicons](https://github.com/lifeomic/chromicons)** - Handcrafted open source icons from LifeOmic (5 days ago)
+- **[Avaiga/taipy](https://github.com/Avaiga/taipy)** - Turns Data and AI algorithms into production-ready web applications in no time. (5 days ago)
 - **[astrit/css.gg](https://github.com/astrit/css.gg)** - 700&#43; Pure CSS, SVG, PNG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API and 6000 glyphs (1 month ago)
 - **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (2 years ago)
 
