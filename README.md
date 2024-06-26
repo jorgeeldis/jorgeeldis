@@ -12,10 +12,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
+- **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (today)
 - **[lifeomic/chromicons](https://github.com/lifeomic/chromicons)** - Handcrafted open source icons from LifeOmic (2 weeks ago)
 - **[Avaiga/taipy](https://github.com/Avaiga/taipy)** - Turns Data and AI algorithms into production-ready web applications in no time. (2 weeks ago)
 - **[astrit/css.gg](https://github.com/astrit/css.gg)** - 700&#43; Pure CSS, SVG, PNG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API and 6000 glyphs (2 months ago)
-- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)** - Practical Ethical Hacking Labs 🗡🛡 (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
