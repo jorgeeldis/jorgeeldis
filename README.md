@@ -12,10 +12,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
+- **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (today)
+- **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (today)
 - **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (3 weeks ago)
 - **[lifeomic/chromicons](https://github.com/lifeomic/chromicons)** - Handcrafted open source icons from LifeOmic (1 month ago)
-- **[Avaiga/taipy](https://github.com/Avaiga/taipy)** - Turns Data and AI algorithms into production-ready web applications in no time. (1 month ago)
-- **[astrit/css.gg](https://github.com/astrit/css.gg)** - 700&#43; Pure CSS, SVG, PNG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API and 6000 glyphs (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
