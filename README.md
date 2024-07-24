@@ -12,10 +12,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
+- **[gutyoh/kafka-notify](https://github.com/gutyoh/kafka-notify)** - Real-time notification system built with Go and Kafka (today)
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (2 days ago)
 - **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (2 days ago)
 - **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (4 weeks ago)
-- **[lifeomic/chromicons](https://github.com/lifeomic/chromicons)** - Handcrafted open source icons from LifeOmic (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
