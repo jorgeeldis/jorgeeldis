@@ -26,8 +26,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 - [gutyoh](https://github.com/gutyoh)
 - [hu8813](https://github.com/hu8813)
-- [sammorozov](https://github.com/sammorozov)
 - [renran713](https://github.com/renran713)
+- [jeldis](https://github.com/jeldis)
 
 #### ðŸ‘½ Latest posts from Stoa Community!
 
