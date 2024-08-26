@@ -19,8 +19,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/espectrocg](https://github.com/jorgeeldis/espectrocg) -  (today)
-- [jorgeeldis/EspectrofotometroQT](https://github.com/jorgeeldis/EspectrofotometroQT) - The SpectophotometerFilesNEW repository contains Python scripts and files related to spectrophotometry data processing. It serves as a tool for analyzing and visualizing spectral data obtained from a spectrophotometer.  (3 weeks ago)
+- [jorgeeldis/espectrocg](https://github.com/jorgeeldis/espectrocg) -  (1 day ago)
+- [jorgeeldis/EspectrofotometroQT](https://github.com/jorgeeldis/EspectrofotometroQT) - The SpectophotometerFilesNEW repository contains Python scripts and files related to spectrophotometry data processing. It serves as a tool for analyzing and visualizing spectral data obtained from a spectrophotometer.  (4 weeks ago)
 
 #### 🚀 Check out some of my recent followers
 
