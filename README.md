@@ -15,12 +15,12 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - **[gutyoh/kafka-notify](https://github.com/gutyoh/kafka-notify)** - Real-time notification system built with Go and Kafka (2 months ago)
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (2 months ago)
 - **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (2 months ago)
-- **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (2 months ago)
+- **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/EspectrofotometroQT](https://github.com/jorgeeldis/EspectrofotometroQT) - The SpectophotometerFilesNEW repository contains Python scripts and files related to spectrophotometry data processing. It serves as a tool for analyzing and visualizing spectral data obtained from a spectrophotometer.  (6 days ago)
-- [jorgeeldis/espectrocg](https://github.com/jorgeeldis/espectrocg) -  (4 weeks ago)
+- [jorgeeldis/EspectrofotometroQT](https://github.com/jorgeeldis/EspectrofotometroQT) - The SpectophotometerFilesNEW repository contains Python scripts and files related to spectrophotometry data processing. It serves as a tool for analyzing and visualizing spectral data obtained from a spectrophotometer.  (1 week ago)
+- [jorgeeldis/espectrocg](https://github.com/jorgeeldis/espectrocg) -  (1 month ago)
 
 #### 🚀 Check out some of my recent followers
 
