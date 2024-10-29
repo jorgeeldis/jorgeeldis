@@ -17,7 +17,9 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 - **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (3 months ago)
 - **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (4 months ago)
 
-#### 👷 Check out what I'm currently 
+#### 👷 Check out what I'm currently working on
+
+- [jorgeeldis/espectrocg](https://github.com/jorgeeldis/espectrocg) -  (1 week ago)
 
 #### 🚀 Check out some of my recent followers
 
