@@ -13,7 +13,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 
 - **[gutyoh/kafka-notify](https://github.com/gutyoh/kafka-notify)** - Real-time notification system built with Go and Kafka (3 months ago)
-- **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML and LLM (3 months ago)
+- **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing with ML, LLM and Vision LLM (3 months ago)
 - **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse] (3 months ago)
 - **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (4 months ago)
 
