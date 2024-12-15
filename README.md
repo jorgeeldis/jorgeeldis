@@ -22,10 +22,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🚀 Check out some of my recent followers
 
+- [starterpages](https://github.com/starterpages)
 - [gutyoh](https://github.com/gutyoh)
 - [hu8813](https://github.com/hu8813)
 - [renran713](https://github.com/renran713)
-- [jeldis](https://github.com/jeldis)
 
 #### 👽 Latest posts from Stoa Community!
 
