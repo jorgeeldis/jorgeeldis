@@ -23,9 +23,9 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### 🚀 Check out some of my recent followers
 
 - [AbdeenM](https://github.com/AbdeenM)
-- [starterpages](https://github.com/starterpages)
 - [gutyoh](https://github.com/gutyoh)
 - [hu8813](https://github.com/hu8813)
+- [renran713](https://github.com/renran713)
 
 #### 👽 Latest posts from Stoa Community!
 
