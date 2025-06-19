@@ -12,15 +12,15 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 #### ⭐ Recent Stars
 
 
-- **[gutyoh/kafka-notify](https://github.com/gutyoh/kafka-notify)** - Real-time notification system built with Go and Kafka (10 months ago)
+- **[gutyoh/kafka-notify](https://github.com/gutyoh/kafka-notify)** - Real-time notification system built with Go and Kafka (11 months ago)
 - **[katanaml/sparrow](https://github.com/katanaml/sparrow)** - Data processing and instruction calling with ML, LLM and Vision LLM (11 months ago)
 - **[frectonz/sql-studio](https://github.com/frectonz/sql-studio)** - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server] (11 months ago)
 - **[zatosource/zato](https://github.com/zatosource/zato)** - ESB, SOA, REST, APIs and Cloud Integrations in Python (11 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (3 days ago)
-- [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (3 days ago)
+- [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (4 days ago)
+- [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (4 days ago)
 
 #### 🚀 Check out some of my recent followers
 
