@@ -19,8 +19,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (1 month ago)
-- [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (1 month ago)
+- [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (2 months ago)
+- [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (2 months ago)
 
 #### 🚀 Check out some of my recent followers
 
