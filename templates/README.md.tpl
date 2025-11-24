@@ -22,16 +22,3 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 {{range followers 4}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
-
-#### 👽 Latest posts from Stoa Community!
-
-#### 💬 Feedback
-
-If you have any questions, don't forget to check out my social media and ask them over there!!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/jorgeeldis
-- Instagram: https://instagram.com/jorgeeldis
-- Blog: https://jorgeeldis.github.io
-- LinkedIn: https://www.linkedin.com/in/jorgeeldis/
