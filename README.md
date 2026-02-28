@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ü
 
 #### üå± My latest projects
 
+- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - 
 - [jorgeeldis/AI-Image-Enhancement](https://github.com/jorgeeldis/AI-Image-Enhancement) - The AI Image Enhancement repository provides Jupyter Notebook examples and Anaconda environment files for utilizing artificial intelligence techniques to enhance digital images. This project aims to demonstrate various image enhancement algorithms and their implementation using Python and Jupyter Notebooks.
 - [jorgeeldis/spectophotometerAS7262](https://github.com/jorgeeldis/spectophotometerAS7262) - The SpectophotometerAS7262 repository contains Python scripts and files for interfacing with the AS7262 Spectral Triad sensor and processing its data. This spectrophotometer setup allows you to acquire spectral information across different wavelengths, enabling various applications in spectroscopy, color analysis, and more.
 - [jorgeeldis/Inventario](https://github.com/jorgeeldis/Inventario) - The **Inventario** repository contains an application for managing and tracking inventory. It is designed to assist businesses and organizations in maintaining a comprehensive record of their stock, making it easier to monitor, update, and analyze inventory levels.
-- [jorgeeldis/routinize](https://github.com/jorgeeldis/routinize) - An app where you can create your own workout routine &amp; save it for future uses! With some counters and timers added
 
 #### ‚≠ê Recent Stars
 
@@ -19,6 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ü
 
 #### üë∑ Check out what I'm currently working on
 
+- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) -  (today)
 - [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (8 months ago)
 - [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (8 months ago)
 
