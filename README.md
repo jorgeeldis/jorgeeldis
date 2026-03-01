@@ -25,7 +25,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 #### ðŸš€ Check out some of my recent followers
 
+- [ibriz25](https://github.com/ibriz25)
 - [gutyoh](https://github.com/gutyoh)
 - [hu8813](https://github.com/hu8813)
 - [renran713](https://github.com/renran713)
-- [jeldis](https://github.com/jeldis)
