@@ -19,7 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;. (5 days ago)
+- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;. (6 days ago)
 - [jorgeeldis/jorgeeldis.github.io](https://github.com/jorgeeldis/jorgeeldis.github.io) - My personal portfolio website where i upload my experience and projects (8 months ago)
 - [jorgeeldis/cyberthenics-app](https://github.com/jorgeeldis/cyberthenics-app) - The landing page for my app CyberThenics, has links to app store and play store. (8 months ago)
 
