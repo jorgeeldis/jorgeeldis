@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
+- [jorgeeldis/edgeaispectophotometer](https://github.com/jorgeeldis/edgeaispectophotometer) - 
 - [jorgeeldis/monthly_challenges](https://github.com/jorgeeldis/monthly_challenges) - 
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly.
 - [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;.
-- [jorgeeldis/AI-Image-Enhancement](https://github.com/jorgeeldis/AI-Image-Enhancement) - The AI Image Enhancement repository provides Jupyter Notebook examples and Anaconda environment files for utilizing artificial intelligence techniques to enhance digital images. This project aims to demonstrate various image enhancement algorithms and their implementation using Python and Jupyter Notebooks.
 
 #### ⭐ Recent Stars
 
@@ -19,6 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
+- [jorgeeldis/edgeaispectophotometer](https://github.com/jorgeeldis/edgeaispectophotometer) -  (1 day ago)
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly. (4 months ago)
 - [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;. (4 months ago)
 
