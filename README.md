@@ -19,7 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Edge AI Spectrophotometer using Arduino UNO Q and App Lab with Bricks (1 week ago)
+- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Edge AI Spectrophotometer using Arduino UNO Q and App Lab with Bricks (1 day ago)
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5. (1 month ago)
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly. (5 months ago)
 - [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;. (5 months ago)
