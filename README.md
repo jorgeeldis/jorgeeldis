@@ -4,10 +4,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 🌱 My latest projects
 
+- [jorgeeldis/nanoquality](https://github.com/jorgeeldis/nanoquality) - 
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5.
 - [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows.
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly.
-- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;.
 
 #### ⭐ Recent Stars
 
@@ -19,10 +19,10 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama �
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (2 days ago)
+- [jorgeeldis/nanoquality](https://github.com/jorgeeldis/nanoquality) -  (1 day ago)
+- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (3 days ago)
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5. (1 month ago)
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly. (5 months ago)
-- [jorgeeldis/zeckoOS](https://github.com/jorgeeldis/zeckoOS) - The goal of this project was to maximize the capabilities of the board and create a fully interactive daily-use device combining hardware control, AI features, sensor monitoring, and multimedia functions — all written in C&#43;&#43;. (6 months ago)
 
 #### 🚀 Check out some of my recent followers
 
