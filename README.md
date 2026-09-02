@@ -19,8 +19,8 @@ I'm Jorge! I'm an Electrical and Electronics Engineer Student based in Panama ðŸ
 
 #### ðŸ‘· Check out what I'm currently working on
 
-- [jorgeeldis/nanoquality](https://github.com/jorgeeldis/nanoquality) -  (2 days ago)
-- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (4 days ago)
+- [jorgeeldis/nanoquality](https://github.com/jorgeeldis/nanoquality) -  (3 days ago)
+- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (5 days ago)
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5. (1 month ago)
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly. (5 months ago)
 
