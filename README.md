@@ -20,7 +20,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer based in Panama 🇵🇦
 #### 👷 Check out what I'm currently working on
 
 - [jorgeeldis/synthpad1986](https://github.com/jorgeeldis/synthpad1986) - Standalone touchscreen synthesizer built on the Arduino UNO Q with App Lab Bricks: 13 synth pads, 5 wave pads, two knobs, live waveform and effect control. (2 weeks ago)
-- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (4 weeks ago)
+- [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (1 month ago)
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5. (2 months ago)
 - [jorgeeldis/stoicbuddy](https://github.com/jorgeeldis/stoicbuddy) - A small AI-powered desk companion inspired by Stoic philosophy that helps you pause, reflect, and face difficult moments calmly. (7 months ago)
 
