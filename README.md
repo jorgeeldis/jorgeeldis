@@ -19,7 +19,7 @@ I'm Jorge! I'm an Electrical and Electronics Engineer based in Panama 🇵🇦
 
 #### 👷 Check out what I'm currently working on
 
-- [jorgeeldis/paradox2180](https://github.com/jorgeeldis/paradox2180) - This repository has the frontend and backend code to build the Edge-AI companion Paradox 2180 using PSOC EdgeAI E84 kit and ModusToolbox  (1 day ago)
+- [jorgeeldis/paradox2180](https://github.com/jorgeeldis/paradox2180) - This repository has the frontend and backend code to build the Edge-AI companion Paradox 2180 using PSOC EdgeAI E84 kit and ModusToolbox  (2 days ago)
 - [jorgeeldis/synthpad1986](https://github.com/jorgeeldis/synthpad1986) - Standalone touchscreen synthesizer built on the Arduino UNO Q with App Lab Bricks: 13 synth pads, 5 wave pads, two knobs, live waveform and effect control. (2 months ago)
 - [jorgeeldis/edgeaispectrophotometer](https://github.com/jorgeeldis/edgeaispectrophotometer) - Open-source edge-AI spectrophotometer built on Arduino UNO Q for local optical measurement, OLS inference, anomaly detection, and quality-control workflows. (2 months ago)
 - [jorgeeldis/cyberwave](https://github.com/jorgeeldis/cyberwave) - CYBERWAVE is a futuristic, cyberpunk-inspired interactive restaurant signage system built on a Raspberry Pi 5. (4 months ago)
